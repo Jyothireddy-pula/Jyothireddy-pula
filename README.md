@@ -18,4 +18,9 @@ Skills
 PythonCC++GitJavaVS CodeHTML5ReactNextJsTailwindCSSNodeJSFast APIMongoDBMySQLFirebaseFlaskSupabasePhotoshopAfter EffectsPremiere ProFigmaDjangoLinuxPyTorchTensorFlowRaspberry Pi
 
 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyothireddy-pula-5b3a01337/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miichael_09_/)
+
+
+
   
