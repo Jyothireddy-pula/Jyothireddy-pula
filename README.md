@@ -12,7 +12,7 @@ ML Engineer specializing in Generative AI and full-stack development. Proficient
 
 🤝  I'm open to collaborating on Interesting / Innovative ML Projects
 
-⚡  In my free time, I play basketball to stay active and focused on health, while also exploring creative ideas and projects, keeping things balanced.
+⚡  In my free time, I play volleyball to stay active and focused on health, while also exploring creative ideas and projects, keeping things balanced.
 
 Skills
 PythonCC++GitJavaVS CodeHTML5ReactNextJsTailwindCSSNodeJSFast APIMongoDBMySQLFirebaseFlaskSupabasePhotoshopAfter EffectsPremiere ProFigmaDjangoLinuxPyTorchTensorFlowRaspberry Pi
