@@ -1,8 +1,11 @@
 Hi 👋 My name is Jyothi Reddy Pula
 
 Undergraduate Student
+🎓 3rd-year CSE student at VIT-AP 
 
-ML Engineer specializing in Generative AI and full-stack development. Proficient in Python for building multi-agent models, fine-tuning RAG-based LLMs, and developing scalable machine learning solutions. Skilled in front-end frameworks like React.js and Next.js for creating intuitive user interfaces.
+💡 Passionate about AI, ML, and Full-Stack Development
+
+🚀 Built projects like MedAlert (AI Healthcare), Digital FarmBot (IoT + AI Farming), GuidanceHub (Mentorship Portal), and Support Ticket System . Developing scalable machine learning solutions. Skilled in front-end frameworks like React.js and Next.js for creating intuitive user interfaces.
 
 🌍  I'm based in Tirupati, India
 
@@ -10,7 +13,7 @@ ML Engineer specializing in Generative AI and full-stack development. Proficient
 
 🧠  I'm learning Different GenAI Frameworks
 
-🤝  I'm open to collaborating on Interesting / Innovative ML Projects
+🤝  I'm open to collaborating on Interesting / Innovative AI/ML, software & hardware projects
 
 ⚡  In my free time, I play volleyball to stay active and focused on health, while also exploring creative ideas and projects, keeping things balanced.
 
