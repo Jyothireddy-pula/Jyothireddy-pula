@@ -8,7 +8,6 @@ Undergraduate Student
 🚀 Built projects like MedAlert (AI Healthcare), Digital FarmBot (IoT + AI Farming), GuidanceHub (Mentorship Portal), and Support Ticket System . Developing scalable machine learning solutions. Skilled in front-end frameworks like React.js and Next.js for creating intuitive user interfaces.
 
 🌍  I'm based in Tirupati, India
-
 ✉️  You can contact me at jyothireddypula@gmail.com
 
 🧠  I'm learning Different GenAI Frameworks
