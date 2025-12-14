@@ -12,7 +12,7 @@
 - **Neurivox** – Multi-agent AI platform for automation & code intelligence  
 - **ZeroScale-API** – AWS serverless backend with CI/CD & cost optimization  
 - **Verto** – Gesture-controlled 3D hologram interface  
-- **PARAS** – Large-scale platform collaboration  
+- **PARAS** – PARAS – Large-scale platform system (contributor)  
 - **AirXfer** – Gesture-based file transfer system  
 
 ---
