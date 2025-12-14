@@ -5,7 +5,7 @@ Undergraduate Student
 
 💡 Passionate about AI, ML, and Full-Stack Development
 
-🚀 Built projects like MedAlert (AI Healthcare), Digital FarmBot (IoT + AI Farming), GuidanceHub (Mentorship Portal), and Support Ticket System . Developing scalable machine learning solutions. Skilled in front-end frameworks like React.js and Next.js for creating intuitive user interfaces.
+🚀 Built FedCareX, SynapseFlow-AI, GemmaSpatialX, Neurivox, ZeroScale-API, Verto, PARAS, and AirXfer, delivering scalable federated AI, agentic systems, computer vision, and cloud-native backends with a focus on real-world impact and clean system design.
 
 🌍  I'm based in Tirupati, India
 ✉️  You can contact me at jyothireddypula@gmail.com
