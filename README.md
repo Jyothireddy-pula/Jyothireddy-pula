@@ -62,6 +62,18 @@
 - Research and real-world problem solving  
 
 ---
+## 📊 My GitHub Vitals
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jyothireddy-pula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothireddy-pula&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothireddy-pula&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 ### 🌍 Connect
 📍 Tirupati, India  
