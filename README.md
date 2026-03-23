@@ -1,3 +1,8 @@
+<!-- 3D Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=320&section=header&text=Jyothi%20Reddy%20Pula&fontSize=85&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20GenAI%20Developer&descAlignY=65&descSize=18"/>
+</p>
+
 ## Hi 👋 I’m Jyothi Reddy Pula
 
 🎓 3rd-year CSE undergraduate at **VIT-AP University**  
@@ -73,7 +78,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothireddy-pula&theme=tokyonight&hide_border=true" />
 
 </div>
-
 
 ### 🌍 Connect
 📍 Tirupati, India  
