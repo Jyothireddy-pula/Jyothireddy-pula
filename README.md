@@ -97,17 +97,41 @@
 
 ---
 
-## 📊 GitHub Insights
+## ⚡ Dev Intelligence Dashboard  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyothireddy-pula&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jyothireddy-pula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothireddy-pula&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothireddy-pula&theme=tokyonight&hide_border=true" height="160"/>
+## 🧠 Coding Activity Pulse  
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jyothireddy-pula&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Dynamics  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothireddy-pula&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🧬 Dev Profile Insights  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jyothireddy-pula&theme=tokyonight&utcOffset=5.5" height="150"/>
+</p>
 
 ---
 
