@@ -95,24 +95,20 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
----
-
 ## ⚡ Dev Intelligence Dashboard  
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyothireddy-pula&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyothireddy-pula&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-⚙️ Focused on building real-world systems across AI, backend, and full-stack development — with consistent hands-on coding and experimentation.
+  ⚙️ Focused on building real-world systems across AI, backend, and full-stack development — with consistent hands-on coding and experimentation.
 </p>
-
----
 
 ## 🧠 Coding Activity Pulse  
 
