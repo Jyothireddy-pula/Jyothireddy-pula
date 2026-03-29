@@ -100,12 +100,16 @@
 ## ⚡ Dev Intelligence Dashboard  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyothireddy-pula&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyothireddy-pula&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+⚙️ Focused on building real-world systems across AI, backend, and full-stack development — with consistent hands-on coding and experimentation.
 </p>
 
 ---
@@ -113,7 +117,11 @@
 ## 🧠 Coding Activity Pulse  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jyothireddy-pula&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Jyothireddy-pula&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
+</p>
+
+<p align="center">
+🚀 Daily development driven by project-based learning, iterative improvements, and solving real-world problems.
 </p>
 
 ---
@@ -121,7 +129,11 @@
 ## 📈 Contribution Dynamics  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothireddy-pula&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothireddy-pula&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+📊 Contributions reflect active work on projects like RoadSense-AI, Verto, ZeroScale-API, and Neurivox.
 </p>
 
 ---
@@ -129,17 +141,19 @@
 ## 🧬 Dev Profile Insights  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jyothireddy-pula&theme=tokyonight&utcOffset=5.5" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyothireddy-pula&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jyothireddy-pula&theme=tokyonight&utcOffset=5.5" height="150"/>
 </p>
 
----
+<p align="center">
+🧩 Core strengths: backend architecture, AI integration, and building scalable systems from scratch.
+</p>
 
 ## 🤝 Open To Opportunities
 - AI / ML / GenAI collaborations  
 - Backend & distributed system projects  
 - Research-driven and real-world problem solving  
-
+- Real-world, impact-driven projects  
 ---
 
 ## 🌍 Connect With Me
