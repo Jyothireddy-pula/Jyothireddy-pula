@@ -1,6 +1,6 @@
 <!-- 🔥 Advanced 3D Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=320&section=header&text=Jyothi%20Reddy%20Pula&fontSize=85&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20GenAI%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=320&section=header&text=PULA%20JYOTHI%20REDDY&fontSize=85&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20GenAI%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18"/>
 </p>
 
 <h3 align="center">Designing intelligent systems that bridge AI, software, and real-world impact</h3>
