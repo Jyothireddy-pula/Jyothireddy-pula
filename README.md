@@ -80,19 +80,21 @@ reliable pipelines.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jyothireddy-pula/Jyothireddy-pula/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Jyothi's 3D contribution calendar" width="100%"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jyothireddy-pula/Jyothireddy-pula/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Jyothi's 3D contribution calendar" width="100%"/>
+</p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothireddy-pula&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jyothireddy-pula&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=450" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=Jyothireddy-pula&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothireddy-pula&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothireddy-pula&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
 ## Open to
 
 GenAI and agent-based work, backend / distributed systems, and research-leaning projects
