@@ -78,12 +78,15 @@ reliable pipelines.
 ## GitHub
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Jyothi's 3D contribution calendar" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Jyothireddy-pula/Jyothireddy-pula/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Jyothi's 3D contribution calendar" width="100%"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jyothireddy-pula&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothireddy-pula&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothireddy-pula&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothireddy-pula&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
