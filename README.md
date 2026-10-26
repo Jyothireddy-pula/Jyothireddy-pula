@@ -63,7 +63,6 @@ reliable pipelines.
 | **Neurivox** | Multi-agent platform for automation and code intelligence, with a modular backend and service orchestration. |
 | **Verto** | Gesture-controlled 3D / hologram interface — human–computer interaction driven by vision models. |
 | **AirXfer** | Transfer files between devices with a hand gesture. |
-| **PARAS** | Contributor on a large-scale platform system. |
 
 <!-- Turn any of these bold names into links: [**Neurivox**](https://github.com/…/neurivox) -->
 
